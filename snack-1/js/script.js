@@ -11,5 +11,4 @@ let vipTavolo = vip.map((element,i) => {
 
 
 
-
 console.log(vipTavolo)
