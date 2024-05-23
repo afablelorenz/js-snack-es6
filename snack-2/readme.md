@@ -16,3 +16,7 @@ Id  Name                Grades
 196 Luigi Grimaldello       68
 102 Piero della Francesca   50
 120 Francesca da Polenta    84
+
+1. Dichiariamo gli array necessari
+2. per il 1. dobbiamo prendere i dati dall'array e renderlo tutto in maiuscolo(solo il nome) e stamparli insieme all'id e i voti
+3. per il numero 2. e 3. dobbiamo creare un map con dentro un if che filtra gli studenti che hanno i voti superiore a 70 e quelli con voti superiori a 70 e id superiore a 120
