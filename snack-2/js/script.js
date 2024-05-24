@@ -44,6 +44,7 @@ for(let i=0; i < studenti.length; i++){
 
 studenti.forEach((element,i) => {
     if(studenti[i].grades > 70 && studenti[i].id > 120){
+        arr70.push(studenti[i]);
         arr70120.push(studenti[i]);
     }else if(studenti[i].grades > 70){
         arr70.push(studenti[i]);
