@@ -25,4 +25,4 @@ const bici = [
 const [, , , bici4] = bici
 
 
-console.log(bici4)
+console.log(`La bici piu leggera: ${bici4.nome}, Peso: ${bici4.peso}`)
