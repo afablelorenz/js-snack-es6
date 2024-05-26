@@ -21,6 +21,8 @@ const bici = [
     },
 ];
 
-const minBiciPeso = Math.min(...bici.map(bici => bici.peso));
+//const minBiciPeso = Math.min(...bici.map(bici => bici.peso));
+const [, , , bici4] = bici
 
-console.log(minBiciPeso);
+
+console.log(bici4)
